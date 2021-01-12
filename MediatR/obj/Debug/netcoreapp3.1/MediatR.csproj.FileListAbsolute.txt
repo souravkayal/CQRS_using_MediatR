@@ -1,0 +1,13 @@
+C:\Users\sourav.kayal\source\repos\MediatR\MediatR\bin\Debug\netcoreapp3.1\MediatR.exe
+C:\Users\sourav.kayal\source\repos\MediatR\MediatR\bin\Debug\netcoreapp3.1\MediatR.deps.json
+C:\Users\sourav.kayal\source\repos\MediatR\MediatR\bin\Debug\netcoreapp3.1\MediatR.runtimeconfig.json
+C:\Users\sourav.kayal\source\repos\MediatR\MediatR\bin\Debug\netcoreapp3.1\MediatR.runtimeconfig.dev.json
+C:\Users\sourav.kayal\source\repos\MediatR\MediatR\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\sourav.kayal\source\repos\MediatR\MediatR\bin\Debug\netcoreapp3.1\MediatR.pdb
+C:\Users\sourav.kayal\source\repos\MediatR\MediatR\obj\Debug\netcoreapp3.1\MediatR.csprojAssemblyReference.cache
+C:\Users\sourav.kayal\source\repos\MediatR\MediatR\obj\Debug\netcoreapp3.1\MediatR.AssemblyInfoInputs.cache
+C:\Users\sourav.kayal\source\repos\MediatR\MediatR\obj\Debug\netcoreapp3.1\MediatR.AssemblyInfo.cs
+C:\Users\sourav.kayal\source\repos\MediatR\MediatR\obj\Debug\netcoreapp3.1\MediatR.csproj.CoreCompileInputs.cache
+C:\Users\sourav.kayal\source\repos\MediatR\MediatR\obj\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\sourav.kayal\source\repos\MediatR\MediatR\obj\Debug\netcoreapp3.1\MediatR.pdb
+C:\Users\sourav.kayal\source\repos\MediatR\MediatR\obj\Debug\netcoreapp3.1\MediatR.genruntimeconfig.cache

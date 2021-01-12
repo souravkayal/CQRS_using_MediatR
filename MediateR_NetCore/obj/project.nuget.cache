@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MC6hiV9FroTfTH5QTGYRc3BCbCO7TfhKJk6pvvFQ5G4MYPYUDYVr2EePXB/BJafdowMD9quhx4vXxFg+FEMIYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sourav.kayal\\source\\repos\\MediatR\\MediateR_NetCore\\MediateR_NetCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sourav.kayal\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\sourav.kayal\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\sourav.kayal\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
